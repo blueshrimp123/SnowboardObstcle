@@ -13,4 +13,4 @@ background(0,200,230);
       this.y = this.y + random(-1, 1);
 
       if(this.x >= width){
-      this.x = 1;
+      this.x = 1; 
